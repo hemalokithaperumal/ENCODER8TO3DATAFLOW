@@ -72,6 +72,10 @@ endmodule
 
 **TIMING DIGRAMS FOR Encoder 8 To 3 in Dataflow Modelling**
 ![wave](wave.png)
+
+
+
+
 **RESULTS**
 Therefore the code has been successfully executed.
 

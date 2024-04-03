@@ -55,10 +55,6 @@ Developed by: HEMA LOKITHA P
 RegisterNumber:212223110014
 */
 ```
-Program for Encoder 8 To 3 in Dataflow Modelling and verify its truth table in quartus using Verilog programming. 
-
-Developed by: SANIYA G
-RegisterNumber: 212223240147
 
 module encoder(a0,a1,a2,d0,d1,d2,d3,d4,d5,d6,d7);
 input d0,d1,d2,d3,d4,d5,d6,d7;
